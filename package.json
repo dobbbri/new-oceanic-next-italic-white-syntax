@@ -2,7 +2,7 @@
   "name": "new-oceanic-next-italic-white-syntax",
   "theme": "syntax",
   "version": "0.2.0",
-  "description": "A short description of your syntax theme",
+  "description": "Atom oceanic-next-italic-white-syntax fixed all deprecated tags",
   "keywords": [
     "syntax",
     "theme"
